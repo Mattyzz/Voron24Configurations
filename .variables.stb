@@ -1,3 +1,3 @@
 [Variables]
-plates = {'array': [{'name': 'LDOTextured', 'offset': 0.025}], 'index': 0}
+plates = {'array': [{'name': 'LDOTextured', 'offset': 0.025}, {'name': 'HB_Textured', 'offset': 0.03}], 'index': 1}
 
