@@ -1,3 +1,13 @@
 [Variables]
+ercf_calib_0 = 1.0
+ercf_calib_clog_length = 21.0
+ercf_calib_ref = 918.5
+ercf_calib_version = 3
+ercf_selector_offsets = [2.0, 23.3, 44.3, 70.4, 91.4, 0.0]
+ercf_state_gate_selected = 0
+ercf_state_gate_status = [1, -1, -1, -1, -1, -1]
+ercf_state_loaded_status = 0
+ercf_state_tool_selected = 0
+ercf_state_tool_to_gate_map = [0, 1, 2, 3, 4, 5]
 plates = {'array': [{'name': 'LDOTextured', 'offset': 0.025}, {'name': 'HB_Textured', 'offset': 0.03}, {'name': 'HB_PEI', 'offset': 0.11}], 'index': 1}
 
