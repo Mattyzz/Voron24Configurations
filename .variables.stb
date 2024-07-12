@@ -47,5 +47,5 @@ mmu_statistics_gate_5 = {'pauses': 1, 'loads': 0, 'load_distance': 3402.753, 'lo
 mmu_statistics_gate_6 = {'pauses': 1, 'loads': 0, 'load_distance': 14533.526, 'load_delta': -12.019, 'unloads': 0, 'unload_distance': 14360.02, 'unload_delta': 24.264, 'servo_retries': 0, 'load_failures': 1, 'unload_failures': 0, 'quality': 1.0012521696381647}
 mmu_statistics_gate_7 = {'pauses': 8, 'loads': 0, 'load_distance': 17956.517, 'load_delta': 8.214, 'unloads': 0, 'unload_distance': 18580.12, 'unload_delta': 17.513, 'servo_retries': 0, 'load_failures': 10, 'unload_failures': 3, 'quality': 1.000623737139406}
 mmu_statistics_swaps = {'pre_unload': 132.43, 'post_unload': 0.29, 'pre_load': 124.16, 'load': 1947.68, 'post_load': 56.73, 'total_swaps': 102, 'swaps_since_pause': 1, 'swaps_since_pause_record': 13, 'total': 2729.78, 'unload': 2705.47, 'total_pauses': 38, 'pause': 30695.39}
-plates = {'array': [{'name': '1', 'offset': -0.3}, {'name': 'HB_Textured', 'offset': -0.13}, {'name': 'HB_PEI', 'offset': 0.11}, {'name': 'HB Satin', 'offset': 0.01}], 'index': 1}
+plates = {'array': [{'name': '1', 'offset': -0.3}, {'name': 'HB_Textured', 'offset': -0.09}, {'name': 'HB_PEI', 'offset': 0.11}, {'name': 'HB Satin', 'offset': 0.01}], 'index': 1}
 
